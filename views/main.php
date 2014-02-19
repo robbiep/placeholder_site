@@ -15,6 +15,6 @@ Did I mention it's $5/month?!
 </div>
 <div class="container">
   <p>This is going to be a Ruby 2 on Rails 4 application, using Angular.js and Foundation. The main components will be a blog, an articles section, a projects section, and an about/contact area. The purpose is to <b>learn</b> more *nix, system administration and managing a server, Rails, Angular, etc. It will also serve as my resume. Finally, it is a place where I can do things that I like to do.</p>
-  <p>I will try my best to document anything relevant, and try my best ot make things not suck. "Not suck" is a relative term though...</p>
+  <p>I will try my best to document anything relevant, and try my best to make things not suck. "Not suck" is a relative term though...</p>
 </div>
 </body></html>
