@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Fira Sans";
+  src: url(/fonts/FiraOpenType/fira_sans/FiraSansOT-Regular.otf) format("opentype");
+}
+html {
+  font-family: "Fira Sans", sans-serif;
+  background: #abc292;
+}
+body {
+
+}
+h1 {
+  text-align: center;
+  margin: 5px;
+}
+#my_pic {
+  width: 140px;
+  margin: 0 auto;
+}
+.container {
+  width: 600px;
+  height: 220px;
+  padding: 10px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background: #D5E1C9;
+  box-shadow: 0 0 2px 2px #A8B899;
+}
+#column_left {
+  width: 25%;
+  float: left;
+}
+#column_right {
+  width: 75%;
+  float: left;
+}
+
+#menu{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  display: block;
+  zoom: 1;
+}
