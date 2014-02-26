@@ -31,7 +31,7 @@ h1,h2 {
 }
 .container {
   width: 600px;
-  margin: 0 auto;
+  margin: 40px auto;
 }
 #column_left {
   width: 25%;
