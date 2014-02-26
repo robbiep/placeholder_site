@@ -4,13 +4,18 @@
 }
 html {
   font-family: "Fira Sans", sans-serif;
-  background: #8093a8;
+  background: #b1bdc9;
   width: 100%;
   height: 100%;
 }
 body {
   width: 100%;
-  height: 95%;
+  height: 90%;
+}
+html *, body, head, div {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
 }
 #title {
   text-align: center;
@@ -26,12 +31,7 @@ h1,h2 {
 }
 .container {
   width: 600px;
-  height: 460px;
-  padding: 10px;
-  margin: 20px auto;
-  border-radius: 10px;
-  background: #b1bdc9;
-  box-shadow: 0 0 2px 2px #738497;
+  margin: 0 auto;
 }
 #column_left {
   width: 25%;
@@ -44,13 +44,15 @@ h1,h2 {
 
 #menu {
   width: 100%;
-  margin: 0 auto;
+  height: auto;
+  padding: 0;
+  margin: 0 0 20px 0;
+  background: #8093a8;
 }
 
 #menu ul{
   list-style: none;
-  margin: 20px auto;
-  padding: 0;
+  padding: 15px 0 10px;
   line-height: 1;
   display: block;
   zoom: 1;
@@ -61,9 +63,8 @@ h1,h2 {
 
 #menu ul li {
   display: inline;
-  margin: 0 10px;
-  padding: 10px 10px;
-  font-size: 25px;
+  margin: 0 15px;
+  font-size: 40px;
 }
 
 #menu ul li a {
