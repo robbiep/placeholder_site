@@ -1,16 +1,27 @@
 
 <body>
   <div class="container">
-    <h1>Hello, I'm, Robbie Perlstein.</h1>
+    <div id="title">
+      <h1>Hello, I'm, Robbie Perlstein.</h1>
+      <h2>I'm a software developer and it's a lot of fun.</h2>
+    </div>
     <div id="column_left">
-      <img id="my_pic" src="https://gravatar.com/avatar/8c8c91cc058b31ee14305bf6d04de5e5?s=512&r=x&d=https%3A%2F%2Fidenticons.github.com%2F673261361c5a04ae8c986947bae7f98c.png">
+      <img id="my_pic" src="<?php $_SERVER["DOCUMENT_ROOT"] ?>/assets/mypic.jpg">
     </div>
     <div id="column_right">
-      I recently migrated hosts from Dreamhost to Digital Ocean, because of easy, affordable KVM running on SSDs, rather than Dreamhost's VZ running on spinning disks.
-      <br>
-      Did I mention it's $5/month?!
+      I'll be graduating from CU Denver in May 2014, and I'm completely
+      excited to make the leap into a rewarding career of solving complex
+      problems and writing kick ass software.
       <br><br>
-      <strong>Pretty content coming soon&#8482;</strong>
+      I have worked on trading systems and government regulatory compliance
+      applications for derivatives market broker dealers. I have done front-end
+      and back-end development for a powerful social utility application used
+      at 100s of conferences and events around the world.
+      <br><br>
+      I maintain a 3.85 GPA. I'm currently employed, with 1.5 years development
+      exerience under my belt. And sometimes, when the stars align just
+      right, I get a chance to go snowboarding or even hangout with my friends
+      too.
     </div>
   </div>
 </body></html>
