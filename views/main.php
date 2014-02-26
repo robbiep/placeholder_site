@@ -1,5 +1,4 @@
 
-<body>
   <div class="container">
     <div id="title">
       <h1>Hello, I'm Robbie Perlstein.</h1>
@@ -24,4 +23,3 @@
       too.
     </div>
   </div>
-</body></html>

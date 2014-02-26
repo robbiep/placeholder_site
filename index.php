@@ -17,10 +17,10 @@ $app->get('/blog', function() use ($app) {
   $app->render('blog.php');
 });
 
-$app->get('/projects', function() use ($app) {
+$app->get('/contact', function() use ($app) {
   $app->render('header.php');
   $app->render('menu.php');
-  $app->render('projects.php');
+  $app->render('contact.php');
 });
 
 $app->run();
