@@ -2,13 +2,13 @@
   <div class="container">
     <div id="title">
       <h1>Hello, I'm Robbie Perlstein.</h1>
-      <h2>I'm a software developer and it's a lot of fun.</h2>
+      <h2>I develop software and it's a lot of fun.</h2>
     </div>
     <div id="column_left">
       <img id="my_pic" src="<?php $_SERVER["DOCUMENT_ROOT"] ?>/assets/mypic.jpg">
     </div>
     <div id="column_right">
-      I'll be graduating from CU Denver in May 2014, and I'm very
+      This coming May I will be graduating from CU Denver and I'm very
       excited to make the leap into a rewarding career of solving complex
       problems and writing kick ass software.
       <br><br>
