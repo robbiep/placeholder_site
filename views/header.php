@@ -7,4 +7,4 @@
       type="image/png"
       href="favicon.png">
 <title>Robbie Perlstein - Denver software engineer + dude.</title>
-<link rel="stylesheet" type="text/css" href="stylesheets/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://robbiep.com/stylesheets/style.css" media="screen" />
