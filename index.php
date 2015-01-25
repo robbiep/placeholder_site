@@ -17,4 +17,10 @@ $app->get('/blog', function() use ($app) {
   $app->render('blog.php');
 });
 
+$app->get('/contact', function() use ($app) {
+  $app->render('header.php');
+  $app->render('menu.php');
+  $app->render('contact.php');
+});
+
 $app->run();

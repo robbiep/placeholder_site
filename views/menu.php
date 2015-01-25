@@ -1,7 +1,9 @@
 <div id="menu">
   <ul >
-    <li><a href="http://robbiep.com">Home</a></li>
-    <li><a href="http://growcode.blogspot.com/">Blog</a></li>
-    <li><a href="assets/resume.pdf">Resume</a></li>
+    <li><a href="/">Home</a></li>
+    <li><a href="<?php $_SERVER["DOCUMENT_ROOT"] ?>/blog">Blog</a></li>
+    <li><a href="https://github.com/robbiep">GitHub</a></li>
+    <li><a href="<?php $_SERVER["DOCUMENT_ROOT"] ?>/assets/resume.pdf">Resume</a></li>
+    <li><a href="<?php $_SERVER["DOCUMENT_ROOT"] ?>/contact">Contact</a></li>
   </ul>
 </div>
