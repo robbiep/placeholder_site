@@ -3,9 +3,5 @@
     <div id="title">
       <h1>Hello, I'm Robbie Perlstein.</h1>
     </div>
-      <p>I write code in archaic languages like Perl.</p>
-      <p>I used to write in archaic languages like Java and C++.</p>
-      <p>I also used to write in sexy new languages like Ruby (on Rails).</p>
-      <p>Language doesn't really matter.</p>
-      <p>Only attitude and aptitude matter.</p>
+    <center>I write code for money and for fun.<br>Isn't that neat?</center>
   </div>
