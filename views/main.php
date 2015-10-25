@@ -3,5 +3,5 @@
     <div id="title">
       <h1>Hello, I'm Robbie Perlstein.</h1>
     </div>
-    <center>I write code for money and for fun.<br>Isn't that neat?</center>
+    <center>I write code for money and for fun.</center>
   </div>
