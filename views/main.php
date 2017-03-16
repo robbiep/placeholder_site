@@ -3,5 +3,8 @@
     <div id="title">
       <h1>Hello, I'm Robbie Perlstein.</h1>
     </div>
-    <center>I write code for money and for fun.</center>
+    <center>Technical leader.<center>
+    <center>Project manager.<center>
+    <center>Software engineer.<center>
+    <center>What can we accomplish together?</center>
   </div>
