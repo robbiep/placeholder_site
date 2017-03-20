@@ -6,5 +6,5 @@
 <link rel="icon"
       type="image/png"
       href="favicon.png">
-<title>Robbie Perlstein - Denver software engineer + dude.</title>
+<title>Robbie Perlstein | NYC-based Tech Lead and Software Engineer.</title>
 <link rel="stylesheet" type="text/css" href="<?php $_SERVER["DOCUMENT_ROOT"] ?>/stylesheets/style.css" media="screen" />
