@@ -6,10 +6,16 @@
     <center>Engineering Manager.</center>
     <center>Technical Leader.</center>
     <br/>
-    Here are a few accomplishments:
-    <ul>
+    <h3>Notable accomplishments:</h3>
+    <ul class="accomplishments">
       <li>Front-line manager for 3 teams simulatanously.</li>
-      <li>Up to 12 directs at once, with 6 additional full-time team augments.</li>
-      <li>Directly managed over 20 indivudals over the course of my career.</li>
+      <li>Up to 12 directs at once, with 6 additional full-time augments.</li>
+      <li>Direct manager to over 20 indivudals in course of career.</li>
+      <li>Architected data service used in production for 4 years.</li>
+      <li>Tech owner of a service with 20k RPM.</li>
+      <li>Created architecture for next gen permissions strategy.</li>
+      <li>Architect for Machine Translation Service system integration.</li>
+      <li>Managed teams and services responsible for $243MM/y revenue.</li>
+      <li>Saved a failing projects byt organizaing dependencies and creating a migration strategy, including architecting solutions to myraid problems, managing personel and expectations.</li>
     </ul>
   </div>

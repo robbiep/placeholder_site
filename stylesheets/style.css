@@ -106,3 +106,7 @@ h1,h2 {
   -o-transition: ease-in-out .2s;
   transition: ease-in-out .2s;
 }
+
+.accomplishments li {
+  margin: 5px 0 0 15px; 
+}
